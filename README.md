@@ -3,6 +3,7 @@
 ## Prerequisites
 
 - Terraform 0.12.x
+- Helm 3.x(Latest plugin supports Helm 3 charts)
 
 ## Input variables
 
