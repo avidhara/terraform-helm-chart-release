@@ -86,3 +86,7 @@ module "helmredis" {
 | version | A SemVer 2 conformant version string of the chart |
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+## License
+
+Apache 2 Licensed. See LICENSE for full details.
+
